@@ -101,9 +101,6 @@ global_freelancers_raw_cleaned.csv — оброблений за допомог�
 DataCleanerApp/
 │  README.md                 <- опис проєкту (цей файл)
 │  DataCleanerApp_UA.ipynb   <- основний Jupyter Notebook
-│  requirements.txt          <- залежності Python
-│  .gitignore
-│  LICENSE
 │
 ├─ data/
 │     global_freelancers_raw.csv
