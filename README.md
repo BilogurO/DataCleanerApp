@@ -112,12 +112,19 @@ global_freelancers_raw.csv — оригінальний датасет
 global_freelancers_raw_cleaned.csv — оброблений за допомогою DataCleanerApp
 
 📂 Структура репозиторію
+
 DataCleanerApp/
+
 │  README.md                 <- опис проєкту (цей файл)
+
 │  DataCleanerApp_UA.ipynb   <- основний Jupyter Notebook
+
 │
+
 ├─ data/
+
 │     global_freelancers_raw.csv
+
 │     global_freelancers_raw_cleaned.csv
 
 📬 Контакти
